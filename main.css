@@ -1,0 +1,19 @@
+.grad {
+  background-image: linear-gradient(100deg, #000000, #130068);
+}
+.monts {
+  font-family: "Montserrat", sans-serif;
+  font-size: 90px;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+}
+.h-500{
+    height: 50vh;
+}
+.marb{
+    margin-bottom: 500px;
+}
